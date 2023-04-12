@@ -14,9 +14,9 @@ git clone https://github.com/afritzler/BeamtenSpracheKommandozeile.git ~/.beamte
 
 Nach der Installation stehen dir die folgenden Kommandos zur Verfügung:
 
-Git: `verwaltungsarchiv`
-Docker: `schiffscontainer`
-kubectl: `steuerbord`
+- Git: `verwaltungsarchiv`
+- Docker: `schiffscontainer`
+- kubectl: `steuerbord`
 
 Beispiel:
 
